@@ -1,6 +1,6 @@
 eg.RegisterPlugin(
     name = "Generic HID with Interval",
-    author = "Hormoz",
+    author = "",
     #version = "1.5." + "$LastChangedRevision$".split()[1],
     kind = "other",
     description = (
