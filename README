@@ -1,0 +1,2 @@
+This adds a delay between consecutive key presses that get sent to your "Genereic HID" EventGhost profile. With the option to set the timeout between each key press.
+Originally made for the Xbox 360 IR Remote that fires in burst mode when keys are held down.
